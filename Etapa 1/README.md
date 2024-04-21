@@ -1,7 +1,7 @@
-#Etapa 1
+# Etapa 1
 
-###Temas a ver:
+### Temas a ver:
 
-*Variables
-*Funciones repetitivas (while)
-*Funciones comparativas (if)
+* Variables
+* Funciones repetitivas (while)
+* Funciones comparativas (if)
