@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.exe
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.deps.json
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.runtimeconfig.json
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.dll
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.pdb
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\_3_Centomani_TerminosYCondiciones.Form1.resources
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.csproj.GenerateResource.cache
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.AssemblyInfo.cs
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.dll
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\refint\3_Centomani_TerminosYCondiciones.dll
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.pdb
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Centomani_TerminosYCondiciones.genruntimeconfig.cache
+C:\Users\User\Documents\Etapa 4\3_Centomani_TerminosYCondiciones\3_Centomani_TerminosYCondiciones\obj\Debug\net8.0-windows\ref\3_Centomani_TerminosYCondiciones.dll

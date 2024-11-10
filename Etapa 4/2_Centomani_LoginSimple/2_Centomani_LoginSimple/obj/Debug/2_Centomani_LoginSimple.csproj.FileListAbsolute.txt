@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\bin\Debug\2_Centomani_LoginSimple.exe.config
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\bin\Debug\2_Centomani_LoginSimple.exe
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\bin\Debug\2_Centomani_LoginSimple.pdb
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\obj\Debug\2_Centomani_LoginSimple.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\obj\Debug\_2_Centomani_LoginSimple.Form1.resources
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\obj\Debug\_2_Centomani_LoginSimple.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\obj\Debug\2_Centomani_LoginSimple.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\obj\Debug\2_Centomani_LoginSimple.exe
+C:\Users\alumno.ET37\Documents\Etapa 4\2_Centomani_LoginSimple\2_Centomani_LoginSimple\obj\Debug\2_Centomani_LoginSimple.pdb
