@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\bin\Debug\1_Centomani_CobrarBecasGUI.exe.config
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\bin\Debug\1_Centomani_CobrarBecasGUI.exe
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\bin\Debug\1_Centomani_CobrarBecasGUI.pdb
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\obj\Debug\_1_Centomani_CobrarBecasGUI.Form1.resources
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\obj\Debug\_1_Centomani_CobrarBecasGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\obj\Debug\1_Centomani_CobrarBecasGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\obj\Debug\1_Centomani_CobrarBecasGUI.exe
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\obj\Debug\1_Centomani_CobrarBecasGUI.pdb
+C:\Users\alumno.ET37\Documents\Etapa 4\1_Centomani_CobrarBecasGUI\1_Centomani_CobrarBecasGUI\obj\Debug\1_Centomani_CobrarBecasGUI.csprojResolveAssemblyReference.cache
