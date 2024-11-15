@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _5_Valdez_MiPrimerMenuGui
+namespace _5_Centomani_MiPrimerMenuGUI
 {
     static class Program
     {
