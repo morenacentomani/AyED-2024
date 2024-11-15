@@ -1,4 +1,4 @@
-﻿namespace _5_Valdez_MiPrimerMenuGui
+﻿namespace _5_Centomani_MiPrimerMenuGUI
 {
     partial class Form4
     {
