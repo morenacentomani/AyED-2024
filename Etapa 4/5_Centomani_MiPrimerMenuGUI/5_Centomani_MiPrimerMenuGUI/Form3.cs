@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _5_Valdez_MiPrimerMenuGui
+namespace _5_Centomani_MiPrimerMenuGUI
 {
     public partial class Form3 : Form
     {
